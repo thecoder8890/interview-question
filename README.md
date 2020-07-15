@@ -2,12 +2,29 @@ Java Question
 =================================
 
 volatile and atomic variables
+https://stackoverflow.com/questions/9749746/what-is-the-difference-between-atomic-volatile-synchronized
+
 visibility and volatile
+https://www.baeldung.com/java-volatile
+
+
 Does volatile make non-atomic operation to atomic?
+https://javarevisited.blogspot.com/2020/04/difference-between-atomic-volatile-and-synchronized-in-java-multi-threading.html
+
 Is reading a long/double variable is atomic
+
+https://stackoverflow.com/questions/517532/writing-long-and-double-is-not-atomic-in-java
+
+
 Does long/double volatile variable is atomic
+https://www.google.com/search?client=ubuntu&channel=fs&q=Does+long%2Fdouble+volatile+variable+is+atomic&ie=utf-8&oe=utf-8
+
 Can a volatile variable be marked as final?
+https://dzone.com/articles/longdouble-are-not-atomic-in-java
+
 difference between locking and volatile variables.
+
+
 How compiler and runtime treats a volatile variable 
 what are atomic variables and how they work.
 difference between volatile and atomic     
